@@ -1,6 +1,4 @@
-========================================
-                  README
-========================================
+README
 
 Ces programmes sont un moyens d'utiliser les séries de Fourier pour pouvoir un dessiner un contour dans le plan complexe.
 
