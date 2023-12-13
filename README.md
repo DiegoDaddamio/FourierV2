@@ -2,8 +2,9 @@ README
 =
 Ces programmes sont un moyens d'utiliser les séries de Fourier pour pouvoir un dessiner un contour dans le plan complexe.
 
-Les programmes de format Dessin*fForme*.m sont basé sur une fonction décrivant à l'avance la fonction via des segments et des arcs de cercles.
-Le programmes Dessin arbitraire, est une amélioration en vu d'une série de Fourier discrète sur un ensemble de points dont,
+-Les programmes de format Dessin*fForme*.m sont basé sur une fonction décrivant à l'avance la fonction via des segments et des arcs de cercles.
+
+-Le programmes de dessin arbitraire, est une amélioration en vu d'une série de Fourier discrète sur un ensemble de points dont,
 la fonction est inconnue et est défini à partir d'une image.
 Une image est nécéssaire et elle est demandée d'être en couleur (pour avoir une différence de gris) avec un contour unique continu.
 Ce programme utilise  la toolbox "gif" (par Chad Greene) ainsi que Image Processing Toolbox (par MathWorks).
