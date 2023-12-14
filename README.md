@@ -20,5 +20,5 @@ Version utilisée de MATLAB :
   September 30, 2023
 
   Toolbox :
-  Version de Image Processing (MathWorks) : v11.6
+  Version de Image Processing (MathWorks) : v11.6;
   gif (Chad Greene) : v1.0.0.1
