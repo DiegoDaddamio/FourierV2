@@ -12,6 +12,7 @@ Ces programmes sont un moyens d'utiliser les séries de Fourier pour pouvoir des
   Il est possible de faire tourner le programme sans ceux-ci, il faut simplement dire "N" si on vous propose un gif et d'utiliser les points mis à disposition,
   à la place des coordonnées déterminée par le travail image.
   Ce programme à besoin d'un nombre d'épicycle déifini (impaire).
+  Par mesure de prévention, attendez que les vecteurs tournants ai fini l'animation pour éviter de supprimer la première figure.
 
 # Informations générales
 Version utilisée de MATLAB : 
