@@ -1,5 +1,5 @@
-README
-=
+# README
+
 Ces programmes sont un moyens d'utiliser les séries de Fourier pour pouvoir dessiner un contour dans le plan complexe.
 
 -Les programmes de format *Dessinf_Forme_.m* sont basé sur une fonction décrivant à l'avance la fonction via des segments et des arcs de cercles.
