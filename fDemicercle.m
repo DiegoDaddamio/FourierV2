@@ -4,7 +4,7 @@ function f = fDemicercle(t)
 coinBasDroite = 1;
 coinBasGauche = -1;
 
-%% 3 - Cotes
+%% 2 - Cotes/Arc
 if and(t >= 0, t < pi)
     f = exp(1i*t);
 
