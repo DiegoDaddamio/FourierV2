@@ -15,10 +15,10 @@ Ces programmes sont un moyens d'utiliser les séries de Fourier pour pouvoir des
 
 # Informations générales
 Version utilisée de MATLAB : 
-  1. R2022b Update 7 (9.13.0.2399474)
+  - R2022b Update 7 (9.13.0.2399474)
   64-bit (win64)
   September 30, 2023
 
   Toolbox :
-  1. Version de Image Processing (MathWorks) : v11.6;
-  2. gif (Chad Greene) : v1.0.0.1
+  - Version de Image Processing (MathWorks) : v11.6
+  - gif (Chad Greene) : v1.0.0.1
