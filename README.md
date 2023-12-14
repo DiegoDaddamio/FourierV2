@@ -2,7 +2,7 @@
 
 Ces programmes sont un moyens d'utiliser les séries de Fourier pour pouvoir dessiner un contour dans le plan complexe.
 
-  1. Les programmes de format *Dessinf*Forme*.m* sont basé sur une fonction décrivant à l'avance la fonction via des segments et des arcs de cercles.
+  1. Les programmes de format *Dessinf*Forme.*m* sont basé sur une fonction décrivant à l'avance la fonction via des segments et des arcs de cercles.
 
   2. Le programmes *Dessin_Arbitraire_Fourier.m*, est une amélioration en vu d'une série de Fourier discrète sur un ensemble de points dont,
   la fonction est inconnue et est défini à partir d'une image.
