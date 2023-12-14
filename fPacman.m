@@ -4,7 +4,7 @@ function f = fPacman(t)
 anglesup = exp(1i*pi/12);
 angleinf = exp(1i*-pi/12);
 
-%% 3 - Cotes
+%% 2 - Cotes
 if and(t >= 0, t < 2*pi/3)
     T = t/(2*pi/3);
     f = exp(1i*T*11*pi/6)*anglesup;
