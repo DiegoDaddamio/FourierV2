@@ -15,7 +15,7 @@ Ces programmes sont un moyens d'utiliser les séries de Fourier pour pouvoir des
 
 # Informations générales
 Version utilisée de MATLAB : 
-  R2022b Update 7 (9.13.0.2399474)
+  1. R2022b Update 7 (9.13.0.2399474)
   64-bit (win64)
   September 30, 2023
 
