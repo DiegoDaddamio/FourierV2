@@ -86,8 +86,6 @@ pointdraw = zeros(1,2);
 
 % Figure pour les épicycles
 figure("Name","Epicycles")
-figure("Name","Epicycles")
-figure("Name","Epicycles")
 %Création d'un gif
 GIF_ON = false;
 if upper(input('Creat a gif ? [Y/N] ','s')) == 'Y'
